@@ -1,3 +1,6 @@
+/* Getting job oppotunities from:
+https://www.arrivia.com/careers/job-openings/ */
+
 var jobs = document.getElementsByClassName("row job-search-result");
 var arrayJobs = [];
 class opportunity {

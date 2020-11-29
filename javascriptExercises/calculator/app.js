@@ -1,0 +1,11 @@
+const calc = require ("./calculator");
+let v1 =5;
+let v2 =10;
+let suma = calc.suma(v1, v2);
+console.log("La suma es:"+ suma);
+let resta = calc.resta(v1, v2);
+console.log("la resta es: " + resta);
+let multi = calc.multi(v1,v2);
+console.log("La multi es: " +multi);
+let divi = calc.divi(v1,v2);
+console.log("La division es: " +divi);
