@@ -12,21 +12,27 @@ Basic exercises of javascript as below:
 - Objects.
 - Promises.
 
+# calculator
+
+```
+This exercise use export module and require, to build a calculator managing the files by separate.
+```
+
 # studentNotes
 
 ## Descripción del problema:
 
 ```
-Un profesor debe calcular el promedio de la nota de quices de sus estudiantes para subirla a la plataforma de notas finales.
-Sin embargo, el profesor acordó con sus estudiantes que los ayudará eliminando la peor de las 5 notas antes de calcular
-el promedio que finalmente reportará. Adicionalmente, el profesor se ha dado cuenta qué las notas registradas en su planilla
-se encuentran en una escala de números enteros de 0 a 100 pero la plataforma está diseñada para recibir el promedio únicamente
-en la escala estándar de la universidad: de 0 a 5, redondeado a dos decimales.
+A teacher must calculate the average of the grade of quices of his students to upload it to the final marks platform.
+However, the teacher agreed with his students that they will help them eliminate the worst of the 5 marks before calculating
+the average that he will eventually report. In addition, the teacher has realized that the notes recorded on his spreadsheet
+are on a whole number scale from 0 to 100 but the platform is designed to receive the average only
+on the standard college scale: 0 to 5, rounded to two decimal places.
 
-Escriba una función qué reciba cómo parámetros: una cadena con el código alfanumérico del estudiante y cinco números
-enteros (note1, note2, note3, note4, note5) que representan las notas de los quices del semestre y retorne una cadena
-de caracteres que le proporciona al profesor la información que desea obtener. La cadena debe tener la siguiente
-estructura: "El promedio ajustado del estudiante {código} es: {promedio}" dónde, el promedio reportado debe cumplir
-con las especificaciones mencionadas anteriormente (redondeado a dos decimales, en escala de 0 a 5 y calculado
-eliminando la peor de las cinco notas del estudiante)
+Write a function what passed as parameters: a string with the student's alphanumeric code and five numbers
+integers (note1, note2, note3, note4, note5) representing the grades of the semester quices and return a string
+character that provides the teacher with the information he wants to obtain. The string should have the following
+structure: "The adjusted average of the student {code} is: {average}" where, the reported average must meet
+with the descriptions mentioned above (rounded to two decimal places, scaled from 0 to 5 and calculated
+eliminating the worst of the five student grades).
 ```
