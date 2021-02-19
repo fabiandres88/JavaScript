@@ -81,7 +81,7 @@ to return the highest number it contains.
 ● If there is no numeric element, throw an exception 
 ```
 
-# asynchronism
+# Asynchronism
 
 ```
 It contains exercises about:
@@ -90,7 +90,51 @@ It contains exercises about:
 - callbacks
 - promises
 
-# calculator
+# Booleans
+
+## Description
+
+```
+1. The user will enter a number and
+we will specify if the number entered
+it is odd or even.
+
+2. Request the age of a user.
+Then ask him if he is
+studying.
+Based on both answers, indicate
+the result on screen.
+
+3. Obtain the age of a voter and
+tell you if you are allowed to vote.
+People over the age of 18 vote.
+
+4. A user tries to enter our
+system. We will ask for the user and
+password.
+We will define a password and before it
+user input we will define if it has
+entered correctly.
+Show a message at the exit according to the
+case.
+
+5. Ask a user for two numbers to
+perform a division.
+
+6.Request first and last name.
+Show a welcome message with
+the full name.
+
+7. The user must enter the time of
+start and end of a
+meeting.
+If the start date is greater or
+equal to completion, display a
+error, otherwise indicate that the
+information was saved successfully.
+```
+
+# Calculator
 
 ## Description:
 
@@ -98,7 +142,7 @@ It contains exercises about:
 This exercise use export module and require, to build a calculator managing the files by separate.
 ```
 
-# callbacks
+# Callbacks
 
 ## Description:
 
@@ -131,7 +175,7 @@ array and another to add an element to the end.
 Generate an inline function that removes the last element.
 ```
 
-# closures-scopes
+# Closures-scopes
 
 ## Description:
 
@@ -155,7 +199,7 @@ It contains exercises about:
 ### hoisting
 
 
-# studentNotes
+# StudentNotes
 
 ## Description of the problem:
 
