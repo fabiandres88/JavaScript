@@ -45,7 +45,8 @@ circles to the right and return the value of the element in
 a given index:
 
 ● Array indicator defined by.
-● Number of random rotations between A and B. Show position 2 and 3 of the array, which will have a minimum of 5
+● Number of random rotations between A and B.
+Show position 2 and 3 of the array, which will have a minimum of 5
 positions.
 
 ARRAYS B
@@ -80,6 +81,8 @@ to return the highest number it contains.
 ```
 
 # calculator
+
+## Description
 
 ```
 This exercise use export module and require, to build a calculator managing the files by separate.
