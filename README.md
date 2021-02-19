@@ -82,7 +82,7 @@ to return the highest number it contains.
 
 # calculator
 
-## Description
+## Description:
 
 ```
 This exercise use export module and require, to build a calculator managing the files by separate.
