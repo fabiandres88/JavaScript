@@ -5,13 +5,14 @@ Basic exercises of javascript as below:
 - Arrays.
 - Async-Await.
 - Callbacks.
-- Closures-Scopes
+- Closures.
 - Conditionals.
 - Data Types.
 - Functions.
 - Loops.
 - Objects.
 - Promises.
+- Scopes.
 
 # Arrays
 
@@ -105,4 +106,37 @@ character that provides the teacher with the information he wants to obtain. The
 structure: "The adjusted average of the student {code} is: {average}" where, the reported average must meet
 with the descriptions mentioned above (rounded to two decimal places, scaled from 0 to 5 and calculated
 eliminating the worst of the five student grades).
+```
+
+# callbacks
+
+## Description:
+
+```
+1. Create a function called "calc" that receives ǽ parameters, the
+first an integer the second a function that
+we will use as a callback.
+Show the following console.logs within each function:
+● Hello calc.
+● Callback Hello.
+
+2. Create a new function to calculate the square of the
+whole number.
+Calculate the square of the number through the "calc" function.
+
+3. Invoke a new function through a callback that
+let us know the square root of a whole number.
+
+4. Create a new function to find out if a number
+integer is prime or not.
+Use this new function through "calc".
+
+5. Invoke a new function through a callback that
+allows us to know the factorial of the whole number.
+
+6. Generate a function to work as an array.
+It must receive 2 parameters, an array and a callback.
+Generate a function to add an element to the beginning of the
+array and another to add an element to the end.
+Generate an inline function that removes the last element.
 ```
