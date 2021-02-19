@@ -81,6 +81,15 @@ to return the highest number it contains.
 ● If there is no numeric element, throw an exception 
 ```
 
+# asynchronism
+
+```
+It contains exercises about:
+```
+- async awzit
+- callbacks
+- promises
+
 # calculator
 
 ## Description:
@@ -126,7 +135,9 @@ Generate an inline function that removes the last element.
 
 ## Description:
 
+```
 It contains exercises about:
+```
 
 ### closure
 
