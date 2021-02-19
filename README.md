@@ -5,6 +5,7 @@ Basic exercises of javascript as below:
 - Arrays.
 - Async-Await.
 - Callbacks.
+- Closures-Scopes
 - Conditionals.
 - Data Types.
 - Functions.
@@ -46,6 +47,36 @@ a given index:
 ● Array indicator defined by.
 ● Number of random rotations between A and B. Show position 2 and 3 of the array, which will have a minimum of 5
 positions.
+
+ARRAYS B
+
+1. Stop Enter via speed numbers indefinitely until
+the user to enter "Stop."
+Store all data in an array and display it at the end.
+"Stop" must be outside our matrix.
+
+2. Divide Matrices
+Enter using quick numbers until the entry of
+a 0.
+Create an array for the even numbers, another for the
+odd and a third to store non-numeric data.
+Show the results at the end of the cycle.
+The value 0 does not include it in any arrangement.
+
+3. Eliminate extremes
+Enter using quick numbers until the entry of
+a 0.
+Store the information in an arrangement.
+Remove the highest and lowest number from the array.
+If the highest or lowest are repeated alone
+delete them once.
+
+4. Array, function and exception.
+Create a function that passed an array as a parameter and
+to return the highest number it contains.
+
+● If the parameter is not an array, throw an exception
+● If there is no numeric element, throw an exception 
 ```
 
 # calculator
