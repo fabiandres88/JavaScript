@@ -83,6 +83,8 @@ to return the highest number it contains.
 
 # Asynchronism
 
+## Description:
+
 ```
 It contains exercises about:
 ```
