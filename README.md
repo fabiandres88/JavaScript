@@ -122,6 +122,28 @@ array and another to add an element to the end.
 Generate an inline function that removes the last element.
 ```
 
+# closures-scopes
+
+## Description:
+
+It contains exercises about:
+
+### closure
+
+- closure
+- lexical
+- loop
+- private-variables
+
+### scope
+
+- block
+- global
+- local
+
+### hoisting
+
+
 # studentNotes
 
 ## Description of the problem:
